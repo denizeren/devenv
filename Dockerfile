@@ -15,6 +15,7 @@ RUN apt-get install -y gcc
 RUN apt-get install -y g++
 RUN apt-get install -y cgdb
 RUN apt-get install -y python-pudb
+RUN apt-get install -y exuberant-ctags
 RUN apt-get install -y man
 
 
